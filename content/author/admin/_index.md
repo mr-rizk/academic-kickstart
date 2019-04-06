@@ -59,24 +59,39 @@ user_groups = ["Researchers", "Visitors"]
   link = "#contact"  # For a direct email link, use "mailto:mr_rizk@mans.edu.eg".
 
 [[social]]
-  icon = "orcid"
-  icon_pack = "ai"
-  link = "https://orcid.org/0000-0002-4885-2996"
-  
-[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/AhmedARizk"
 
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/mr-rizk"
+
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-4885-2996"
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com.eg/citations?user=SbIlWQoAAAAJ"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/mr-rizk"
+  icon = "academia"
+  icon_pack = "ai"
+  link = "https://mansoura.academia.edu/AhmedRizk"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Ahmed_Rizk4"
+  
+  [[social]]
+  icon = "researcherid"
+  icon_pack = "ai"
+  link = "http://www.researcherid.com/rid/G-6506-2010"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
