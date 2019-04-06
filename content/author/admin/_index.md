@@ -13,7 +13,7 @@ role = "Training Specialist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Mansoura University", url = "www.mans.edu.eg" } ]
+organizations = [ { name = "Mansoura University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include reference management systems, MOOC Platforms and information retrieval."
@@ -58,6 +58,11 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:mr_rizk@mans.edu.eg".
 
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-4885-2996"
+  
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
